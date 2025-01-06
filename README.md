@@ -52,3 +52,6 @@ Online supplementary for ***Modha, S., Hughes, J., Orton, R.J., Lytras, S.* Expa
 - Other data:
 
 	- [Raw data for Figure S4 depth vs GC content comparison](data/figS4B_depthVSgc_window100step50_ranked.csv).
+	
+	- All contigs assembled in this study are also available in the Third Party Annotation Section of the DDBJ/ENA/GenBank
+	databases under the accession numbers TPA: BK068993-BK069821. [This table relates contig accessions to GenBank accessions](data/seqids_to_genbank.txt)
